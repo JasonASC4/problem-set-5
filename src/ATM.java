@@ -13,3 +13,11 @@
 public class ATM {
 	
 }
+/* try (BufferedReader br = newBufferedReader(new FileReader(file))){
+	string line;
+	while ((line = br.reader ()) != null){
+//process line
+//build account from passed data
+}
+}
+ */
