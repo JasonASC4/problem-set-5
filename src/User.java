@@ -21,7 +21,7 @@ public class User {
 	 private String postal_code;
 	 
 	 public User(String first_name, String last_name, int pin, String dob, int telephone_number, String address, String city, String state, String postal_code) {
-		 	this.first_name = first_name;
+		 	this.first_name = first_name; 
 		 	this.last_name = last_name;
 			this.pin = pin;
 			this.dob = dob;
